@@ -4,3 +4,4 @@ Hello
 World! ok
 branch test!
 Create a new line master and feature1
+no-ff mode test
