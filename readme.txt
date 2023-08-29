@@ -1,4 +1,4 @@
 Git is very good!
-Git is a free software!
+Git is a good free software!
 Hello
-World!
+World! ok
