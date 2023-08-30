@@ -1,2 +1,2 @@
 hello mydev branch
-add a new line by user2
+add a new line by user2 & user1
